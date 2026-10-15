@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Degstion-safety/Degstion-safety.vcxproj" Id="1f7d0cfc-2b33-45fd-9ec0-3e7179166be2" />
+</Solution>
